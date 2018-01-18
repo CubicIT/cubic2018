@@ -5,5 +5,4 @@ the following is the list, please chose...
 apple
 mango
 
-banana
-lemon
+carrot
