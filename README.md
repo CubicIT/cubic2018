@@ -6,3 +6,8 @@ apple
 mango
 
 carrot
+banana
+lemon
+
+apple
+strawberrt
